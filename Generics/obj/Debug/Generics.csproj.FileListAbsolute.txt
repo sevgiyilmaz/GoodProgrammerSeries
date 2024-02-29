@@ -1,0 +1,7 @@
+C:\Users\sevgi\source\repos\GoodProgrammerSeries\Generics\bin\Debug\Generics.exe.config
+C:\Users\sevgi\source\repos\GoodProgrammerSeries\Generics\bin\Debug\Generics.exe
+C:\Users\sevgi\source\repos\GoodProgrammerSeries\Generics\bin\Debug\Generics.pdb
+C:\Users\sevgi\source\repos\GoodProgrammerSeries\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\sevgi\source\repos\GoodProgrammerSeries\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\sevgi\source\repos\GoodProgrammerSeries\Generics\obj\Debug\Generics.exe
+C:\Users\sevgi\source\repos\GoodProgrammerSeries\Generics\obj\Debug\Generics.pdb

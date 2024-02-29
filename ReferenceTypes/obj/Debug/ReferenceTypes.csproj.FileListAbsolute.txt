@@ -1,0 +1,7 @@
+C:\Users\sevgi\source\repos\GoodProgrammerSeries\ReferenceTypes\bin\Debug\ReferenceTypes.exe.config
+C:\Users\sevgi\source\repos\GoodProgrammerSeries\ReferenceTypes\bin\Debug\ReferenceTypes.exe
+C:\Users\sevgi\source\repos\GoodProgrammerSeries\ReferenceTypes\bin\Debug\ReferenceTypes.pdb
+C:\Users\sevgi\source\repos\GoodProgrammerSeries\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.AssemblyReference.cache
+C:\Users\sevgi\source\repos\GoodProgrammerSeries\ReferenceTypes\obj\Debug\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\sevgi\source\repos\GoodProgrammerSeries\ReferenceTypes\obj\Debug\ReferenceTypes.exe
+C:\Users\sevgi\source\repos\GoodProgrammerSeries\ReferenceTypes\obj\Debug\ReferenceTypes.pdb
