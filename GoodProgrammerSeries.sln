@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{9987CA91-F816-4269-9950-F890898E91D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{DA55A177-9A7A-4A20-AA0A-42E315AAA4EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9987CA91-F816-4269-9950-F890898E91D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9987CA91-F816-4269-9950-F890898E91D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9987CA91-F816-4269-9950-F890898E91D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA55A177-9A7A-4A20-AA0A-42E315AAA4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA55A177-9A7A-4A20-AA0A-42E315AAA4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA55A177-9A7A-4A20-AA0A-42E315AAA4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA55A177-9A7A-4A20-AA0A-42E315AAA4EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
