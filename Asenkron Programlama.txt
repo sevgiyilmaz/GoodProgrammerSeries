@@ -1,0 +1,18 @@
+
+**Asenkron Programlama**
+
+
+Asenkron programlama, bir programın belirli görevleri eşzamanlı olarak gerçekleştirmek üzere tasarlandığı bir programlama paradigmasıdır. Geleneksel, senkron (eşzamanlı) programlamada bir görev tamamlanmadan diğer göreve geçilmez. Bununla birlikte, asenkron programlamada bir görevin tamamlanması beklenmez; program diğer işlemlere devam edebilir ve tamamlandığında bildirim alabilir.
+
+Asenkron programlama, özellikle giriş/çıkış (I/O) işlemleri, ağ çağrıları, dosya okuma/yazma gibi zaman alıcı operasyonlarla başa çıkmak için kullanılır. Bu tür operasyonlar genellikle giriş veya çıkış verilerinin yüklenmesi veya kaydedilmesi gibi uzun sürebilir. Senkron bir yaklaşımla bu işlemleri beklemek, diğer işlemlerin durmasına ve performans kaybına neden olabilir. Asenkron programlama, bu durumları önlemek ve programın daha etkili çalışmasını sağlamak için kullanılır.
+
+
+Performans İyileştirmesi: Asenkron programlama, işlem süreçlerini bekletmeden diğer görevlere geçilmesini sağlar. Bu sayede program, belirli bir görevin tamamlanmasını beklerken diğer işlemleri gerçekleştirebilir, bu da genel performansı artırır.
+
+Daha Hızlı Tepki Süreleri: Asenkron programlama, özellikle kullanıcı etkileşimli uygulamalarda daha hızlı tepki süreleri sağlar. Kullanıcı bir işlemi başlattığında, diğer işlemler aynı anda devam edebilir ve kullanıcıya daha hızlı bir geri bildirim verilebilir.
+
+Etkin Kaynak Kullanımı: Asenkron yapılar, kaynakların daha etkili bir şekilde kullanılmasına olanak tanır. Örneğin, bir işlem tamamlanana kadar beklemek yerine, başka işlemler devam edebilir, bu da sistem kaynaklarının daha iyi kullanılmasını sağlar.
+
+Paralel İşleme: Asenkron programlama, birden çok işlemi aynı anda yürütme yeteneği sağlar. Bu, özellikle çok çekirdekli işlemcilerde veya dağıtık sistemlerde paralel işlem avantajlarından yararlanmayı mümkün kılar.
+
+Zaman Alıcı İşlemlerde Verimlilik: Asenkron yapılar, zaman alıcı işlemleri daha verimli bir şekilde yönetmeye yardımcı olur. Bu, özellikle ağ çağrıları, dosya okuma/yazma işlemleri gibi durumlarda önemlidir.
