@@ -4,6 +4,7 @@
 - Reference Types
 - Constructors
 - Interfaces
-- Generics
+- Generic
+- Linq
 - Multithreading
 - Asynchronous Programming
