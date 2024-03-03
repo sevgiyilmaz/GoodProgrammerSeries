@@ -5,5 +5,5 @@
 - Constructors
 - Interfaces
 - Generics
-- Multithreading (Çoklu İş Parçacığı)
-- Asenkron Programlama
+- Multithreading
+- Asynchronous Programming
